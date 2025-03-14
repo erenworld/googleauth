@@ -1,4 +1,4 @@
-project/
+```project/
 ├── .env
 ├── package.json
 ├── server.js
@@ -15,4 +15,4 @@ project/
 ├── middleware/
 │   └── auth.js
 └── utils/
-    └── googleOAuth.js
+    └── googleOAuth.js```
